@@ -2,7 +2,7 @@
 
 A simple web app that lets users switch colors instantly, built to practise front-end development and deployed on Vercel.
 
-**Live demo:** https://color-switcher-indol.vercel.app/
+**Live demo:** https://color-switcher-indol.vercel.app
 
 ## Features
 - Change colors with a single click
