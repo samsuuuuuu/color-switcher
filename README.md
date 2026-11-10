@@ -10,7 +10,7 @@ A simple web app that lets users switch colors instantly, built to practise fron
 - Responsive layout that works on desktop and mobile
 
 ## Tech Stack
-- HTML, CSS, JavaScript
+- React, Vite, Tailwind CSS
 
 ## Run Locally
 1. Clone the repo: `git clone https://github.com/samsuuuuuu/color-switcher.git`
